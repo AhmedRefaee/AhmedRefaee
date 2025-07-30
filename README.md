@@ -1,67 +1,50 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding gif"/>
 </div>
-
-###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/ahmedrefaee">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
 </div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmedrefaee" alt="visitor badge"/>
 </div>
 
-###
+<h1 align="center">Hi, I'm Ahmed Refaee 👋</h1>
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+## 👨‍💻 About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
+I'm a **Flutter developer** and Software Engineering graduate from **Mansoura University** with a strong foundation in mobile development, UI/UX, and camera integration. I’ve worked on feature-rich apps including intelligent learning systems for children with learning difficulties.
 
-###
+My focus is on building clean, efficient, and scalable mobile apps using Flutter. I thrive in cross-functional teams and enjoy working on challenging, impactful projects that solve real-world problems.
 
-<p align="left">I'm Ahmed Refaee<br><br>- 🔭 Flutter Developer</p>
+---
 
-###
+## 🔧 Tech Stack & Tools
 
-<h3 align="left">🛠 Language and tools</h3>
+- **Languages**: Dart, C++, Python, HTML/CSS
+- **Frameworks**: Flutter, FastAPI (API integration)
+- **Tools**: Git, Firebase, RESTful APIs, Postman
+- **Soft Skills**: Communication, Translation, Cold Calling, Fast Typing (~75 WPM)
+- **Bonus**: Strong interest in AI-powered applications & educational tech
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+## 📈 Currently
 
-###
+- Graduated in 2025 from **Mansoura University – Software Engineering**
+- Open to Flutter internship & junior dev opportunities
+- Exploring AI integrations and adaptive learning flows in mobile development
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## 📫 Reach Me
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+- 📧 [arefaee390@gmail.com](mailto:arefaee390@gmail.com)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmedrefaee)
 
-###
+---
